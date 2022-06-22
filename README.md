@@ -1,3 +1,3 @@
 # DataLearn
 
-## my homeworck
+## my homework
